@@ -1,0 +1,14 @@
+{
+  "jspm": {
+    "directories": {
+      "baseURL": "public/dist",
+      "lib": "public/src",
+      "packages": "public/jspm_packages"
+    },
+    "configFile": "public/config.js",
+    "dependencies": {
+      "lodash": "npm:lodash@^3.5.0",
+      "react": "npm:react@^0.13.0"
+    }
+  }
+}
